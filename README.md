@@ -2,7 +2,7 @@
 Hello there,
 Git and GitHub are platforms that will greatly enhance your resume and career.
 
-So we want you to spend the entire week (1-03-2023) - (6-03-2023) learning the following fundamentals:
+So we want you to spend the entire week from (1-03-2023) - (6-03-2023) learning the following fundamentals:
 
 #Discover Git, Git commands, GitHub, and gitbash.
 
@@ -39,4 +39,5 @@ if you counter any doubts
 
 Wish you happy learning
 
-Thanks and regards,                                                                                                                                               Team Weblaunch.
+Thanks and regards,
+Team Weblaunch.
