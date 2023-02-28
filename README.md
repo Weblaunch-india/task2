@@ -1,15 +1,20 @@
-# task2
+# Internship Task2
 Hello there,
 Git and GitHub are platforms that will greatly enhance your resume and career.
 
 So we want you to spend the entire week (1-03-2023) - (6-03-2023) learning the following fundamentals:
 
 #Discover Git, Git commands, GitHub, and gitbash.
+
 #Discover how to connect GitHub to Vscode and use gitbash.
+
 #Learn how to clone and fork a repository.
+
 #Learn how to create and assign tasks from issues.
-#Learn how to make a new branch and merge existing ones.
-#After merging all of the team branches, learn how to commit and raise a pull request.
+
+#Learn how to make a new branch and merge branch.
+
+#learn how to commit and raise a pull request.
 
 We have provided a few videos for your reference; please go through the vedios provided and conduct your own research.
 ( Vedio 1 )
@@ -35,5 +40,4 @@ if you counter any doubts
 
 Wish you happy learning
 
-Thanks and regards,
-Team Weblaunch.
+Thanks and regards,                                                                                                                                               Team Weblaunch.
