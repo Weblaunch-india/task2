@@ -6,7 +6,7 @@ So we want you to spend the entire week from (1-03-2023) - (6-03-2023) learning 
 
 #Discover Git, Git commands, GitHub, and gitbash.
 
-#Discover how to connect GitHub to Vscode and use gitbash.
+#Discover how to connect GitHub to Vscode, gitbash and github.dev.
 
 #Learn how to clone and fork a repository.
 
@@ -26,8 +26,7 @@ https://www.youtube.com/live/UqRWWYt8IzY?feature=share
 Documentation (How to Use GitHub):https://docs.github.com/en/get-started/using-git/about-git
 
 #Task Submission: ( 6-03-2023, 10:00pm )
-Create a repository and add README.MD File with ( your team number and your name ), if your name is Ram and your team is 1. ( team1-ram) and provide us your learnings.
-
+post all your learnings in LinkedIn, tag us ( @weblaunchindia ) and fill below form with post link.
 fill the form : ( https://forms.gle/xK42rF9YRQya7Qq97 )
 
 Pro tip #1: talk about the project in your group, go to a Google meet, have a discussion, and start learning about it. Teamwork is what makes dreams come true.
