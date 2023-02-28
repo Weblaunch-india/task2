@@ -40,5 +40,4 @@ if you counter any doubts
 
 Wish you happy learning
 
-Thanks and regards,
-Team Weblaunch.
+Thanks and regards - Team Weblaunch.
