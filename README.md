@@ -2,7 +2,7 @@
 Hello there, team.
 
 
-We discovered that the majority of the team encountered issues while using GitHub after evolving your first project.
+#We discovered that the majority of the team encountered issues while using GitHub after evolving your first project.
 
 
 Git and GitHub are platforms that will greatly enhance your resume and career.
