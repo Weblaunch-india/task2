@@ -24,8 +24,7 @@ Documentation:https://docs.github.com/en/get-started/using-git/about-git
 ( Vedio 2 )
 https://www.youtube.com/live/UqRWWYt8IzY?feature=share
 Documentation (How to Use GitHub):https://docs.github.com/en/get-started/using-git/about-git
-.
-.
+
 #Task Submission: ( 6-03-2023, 10:00pm )
 Create a repository and add README.MD File with ( your team number and your name ), if your name is Ram and your team is 1. ( team1-ram) and provide us your learnings.
 
