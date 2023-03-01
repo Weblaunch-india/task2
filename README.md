@@ -17,11 +17,11 @@ So we want you to spend the entire week from (1-03-2023) - (6-03-2023) learning 
 #learn how to commit and raise a pull request.
 
 We have provided a few videos for your reference; please go through the vedios provided and conduct your own research.
-( Vedio 1 )
-https://www.youtube.com/live/J4tF0sBrZuM?feature=share ( Vedio 1 ) 
+( Video 1 )
+https://www.youtube.com/live/J4tF0sBrZuM?feature=share ( Video 1 ) 
 Documentation:https://docs.github.com/en/get-started/using-git/about-git
 
-( Vedio 2 )
+( Video 2 )
 https://www.youtube.com/live/UqRWWYt8IzY?feature=share
 Documentation (How to Use GitHub):https://docs.github.com/en/get-started/using-git/about-git
 
